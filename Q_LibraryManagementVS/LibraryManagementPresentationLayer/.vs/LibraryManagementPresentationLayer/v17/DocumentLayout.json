@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell12\\Desktop\\Q_Library Management Project\\LibraryManagementPresentationLayer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2414F46-E06F-4003-BEA8-4E321987E2F6}|..\\LibraryManagementBackEndLayer\\LibraryManagementBackEndLayer.csproj|c:\\users\\dell12\\desktop\\q_library management project\\librarymanagementbackendlayer\\backend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B231DC69-12A4-40BD-8A1E-FDED87B6B375}|..\\LibraryManagementDataBaseLayer\\LibraryManagementDataBaseLayer.csproj|c:\\users\\dell12\\desktop\\q_library management project\\librarymanagementdatabaselayer\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataBase.cs",
+              "DocumentMoniker": "C:\\Users\\dell12\\Desktop\\Q_Library Management Project\\LibraryManagementDataBaseLayer\\DataBase.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagementDataBaseLayer\\DataBase.cs",
+              "ToolTip": "C:\\Users\\dell12\\Desktop\\Q_Library Management Project\\LibraryManagementDataBaseLayer\\DataBase.cs",
+              "RelativeToolTip": "..\\LibraryManagementDataBaseLayer\\DataBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T19:42:04.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BackEnd.cs",
+              "DocumentMoniker": "C:\\Users\\dell12\\Desktop\\Q_Library Management Project\\LibraryManagementBackEndLayer\\BackEnd.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagementBackEndLayer\\BackEnd.cs",
+              "ToolTip": "C:\\Users\\dell12\\Desktop\\Q_Library Management Project\\LibraryManagementBackEndLayer\\BackEnd.cs",
+              "RelativeToolTip": "..\\LibraryManagementBackEndLayer\\BackEnd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T19:37:52.832Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
