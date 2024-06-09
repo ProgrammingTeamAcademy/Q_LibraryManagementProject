@@ -1,0 +1,9 @@
+C:\Users\dell12\Downloads\My-GitHub\Q_LibraryManagementProject\Q_LibraryManagementVS\LibraryManagementBackEndLayer\bin\Debug\LibraryManagementBackEndLayer.dll
+C:\Users\dell12\Downloads\My-GitHub\Q_LibraryManagementProject\Q_LibraryManagementVS\LibraryManagementBackEndLayer\bin\Debug\LibraryManagementBackEndLayer.pdb
+C:\Users\dell12\Downloads\My-GitHub\Q_LibraryManagementProject\Q_LibraryManagementVS\LibraryManagementBackEndLayer\bin\Debug\LibraryManagementDataBaseLayer.dll
+C:\Users\dell12\Downloads\My-GitHub\Q_LibraryManagementProject\Q_LibraryManagementVS\LibraryManagementBackEndLayer\bin\Debug\LibraryManagementDataBaseLayer.pdb
+C:\Users\dell12\Downloads\My-GitHub\Q_LibraryManagementProject\Q_LibraryManagementVS\LibraryManagementBackEndLayer\obj\Debug\LibraryManagementBackEndLayer.csproj.AssemblyReference.cache
+C:\Users\dell12\Downloads\My-GitHub\Q_LibraryManagementProject\Q_LibraryManagementVS\LibraryManagementBackEndLayer\obj\Debug\LibraryManagementBackEndLayer.csproj.CoreCompileInputs.cache
+C:\Users\dell12\Downloads\My-GitHub\Q_LibraryManagementProject\Q_LibraryManagementVS\LibraryManagementBackEndLayer\obj\Debug\LibraryM.3316279B.Up2Date
+C:\Users\dell12\Downloads\My-GitHub\Q_LibraryManagementProject\Q_LibraryManagementVS\LibraryManagementBackEndLayer\obj\Debug\LibraryManagementBackEndLayer.dll
+C:\Users\dell12\Downloads\My-GitHub\Q_LibraryManagementProject\Q_LibraryManagementVS\LibraryManagementBackEndLayer\obj\Debug\LibraryManagementBackEndLayer.pdb

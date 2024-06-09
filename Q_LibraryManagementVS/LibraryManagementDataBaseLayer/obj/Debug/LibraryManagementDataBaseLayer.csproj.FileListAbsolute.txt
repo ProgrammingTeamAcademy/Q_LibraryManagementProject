@@ -1,0 +1,6 @@
+C:\Users\dell12\Downloads\My-GitHub\Q_LibraryManagementProject\Q_LibraryManagementVS\LibraryManagementDataBaseLayer\bin\Debug\LibraryManagementDataBaseLayer.dll
+C:\Users\dell12\Downloads\My-GitHub\Q_LibraryManagementProject\Q_LibraryManagementVS\LibraryManagementDataBaseLayer\bin\Debug\LibraryManagementDataBaseLayer.pdb
+C:\Users\dell12\Downloads\My-GitHub\Q_LibraryManagementProject\Q_LibraryManagementVS\LibraryManagementDataBaseLayer\obj\Debug\LibraryManagementDataBaseLayer.csproj.AssemblyReference.cache
+C:\Users\dell12\Downloads\My-GitHub\Q_LibraryManagementProject\Q_LibraryManagementVS\LibraryManagementDataBaseLayer\obj\Debug\LibraryManagementDataBaseLayer.csproj.CoreCompileInputs.cache
+C:\Users\dell12\Downloads\My-GitHub\Q_LibraryManagementProject\Q_LibraryManagementVS\LibraryManagementDataBaseLayer\obj\Debug\LibraryManagementDataBaseLayer.dll
+C:\Users\dell12\Downloads\My-GitHub\Q_LibraryManagementProject\Q_LibraryManagementVS\LibraryManagementDataBaseLayer\obj\Debug\LibraryManagementDataBaseLayer.pdb

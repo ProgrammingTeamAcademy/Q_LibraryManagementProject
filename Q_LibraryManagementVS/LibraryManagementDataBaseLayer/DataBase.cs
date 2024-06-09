@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
@@ -44,17 +45,49 @@ namespace LibraryManagementDataBaseLayer
             return isFound;
         }
 
+        public static DataTable GetAdminsList()
+        {
+            DataTable AdminsDT = new DataTable();
+
+            SqlConnection connection = new SqlConnection(clsDataBaseSettings.ConnectionString);
+
+            string query = "select * from admins";
+
+            SqlCommand command = new SqlCommand(query, connection);
+
+            try
+            {
+                connection.Open();
+
+                SqlDataReader reader = command.ExecuteReader();
+
+                if (reader.HasRows)
+                {
+                    AdminsDT.Load(reader);
+                }
+
+
+            }
+            catch { }
+            finally { connection.Close(); }
+
+            return AdminsDT;
+
+        }
+
+
+
 
 
     }
 
-    public class clsCustomersDataAccess
+    public class clsCustomerDataAccess
     {
         
     }
 
 
-    public class clsBooksDataAccess
+    public class clsBookDataAccess
     {
 
     }
