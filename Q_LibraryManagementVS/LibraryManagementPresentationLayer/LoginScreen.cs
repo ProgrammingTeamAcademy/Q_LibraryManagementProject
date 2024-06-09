@@ -18,9 +18,8 @@ namespace LibraryManagementPresentationLayer
             InitializeComponent();
         }
 
-        private void LoginScreen_Load(object sender, EventArgs e)
-        {
+        
 
-        }
+        
     }
 }

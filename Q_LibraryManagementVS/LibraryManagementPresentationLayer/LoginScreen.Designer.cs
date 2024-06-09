@@ -37,7 +37,6 @@
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Name = "LoginScreen";
             this.Text = "Login Screen";
-            this.Load += new System.EventHandler(this.LoginScreen_Load);
             this.ResumeLayout(false);
 
         }

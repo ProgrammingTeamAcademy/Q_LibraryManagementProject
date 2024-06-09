@@ -10,7 +10,10 @@ namespace LibraryManagementBackEndLayer
     public class clsAdmin
     {
 
-
+        public static bool IsExist(string UserName)
+        {
+            return clsAdminDataAccess.IsExist(UserName);
+        }
        
 
 
