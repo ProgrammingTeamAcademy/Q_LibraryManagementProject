@@ -42,7 +42,7 @@
               "RelativeDocumentMoniker": "..\\LibraryManagementDataBaseLayer\\DataBase.cs",
               "ToolTip": "C:\\Users\\dell12\\Downloads\\My-GitHub\\Q_LibraryManagementProject\\Q_LibraryManagementVS\\LibraryManagementDataBaseLayer\\DataBase.cs",
               "RelativeToolTip": "..\\LibraryManagementDataBaseLayer\\DataBase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAvAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAwwHYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-09T15:14:46.39Z",
               "EditorCaption": ""
@@ -55,9 +55,10 @@
               "RelativeDocumentMoniker": "..\\LibraryManagementBackEndLayer\\BackEnd.cs",
               "ToolTip": "C:\\Users\\dell12\\Downloads\\My-GitHub\\Q_LibraryManagementProject\\Q_LibraryManagementVS\\LibraryManagementBackEndLayer\\BackEnd.cs",
               "RelativeToolTip": "..\\LibraryManagementBackEndLayer\\BackEnd.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T15:14:47.996Z"
+              "WhenOpened": "2024-06-09T15:14:47.996Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -69,7 +70,8 @@
               "RelativeToolTip": "LoginScreen.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAWwBUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T15:34:52.299Z"
+              "WhenOpened": "2024-06-09T15:34:52.299Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -80,7 +82,8 @@
               "ToolTip": "C:\\Users\\dell12\\Downloads\\My-GitHub\\Q_LibraryManagementProject\\Q_LibraryManagementVS\\LibraryManagementPresentationLayer\\LoginScreen.cs [Design]",
               "RelativeToolTip": "LoginScreen.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T18:11:09.628Z"
+              "WhenOpened": "2024-06-08T18:11:09.628Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

@@ -9,7 +9,7 @@ namespace LibraryManagementBackEndLayer
 {
     public class clsAdmin
     {
-
+        private int _ID;
         private string _Full_Name {  get; set; }
         private string _UserName { get; set; }
         private string _Password { get; set; }
@@ -18,14 +18,16 @@ namespace LibraryManagementBackEndLayer
 
         public clsAdmin()
         {
-            _Full_Name = "";
-            _UserName = "";
-            _Password = "";
+            _ID = -1;
+            _Full_Name = string.Empty;
+            _UserName = string.Empty;
+            _Password = string.Empty;
             _AdminLevel = 0;
         }
 
-        private clsAdmin(string FullName,string UserName,string Password,int AdminLevel)
+        private clsAdmin(int ID, string FullName, string UserName, string Password, int AdminLevel)
         {
+            this._ID = ID;
             this._Full_Name = FullName;
             this._UserName = UserName;
             this._Password = Password;
@@ -41,7 +43,14 @@ namespace LibraryManagementBackEndLayer
         }
        
 
+        public static bool GetAdminObjectByUserNameAndPassword(string UserName, string Password)
+        {
+            int ID = -1, AdminLevel = 0;
+            string FullName = string.Empty;
 
+            return clsAdminDataAccess.GetAdminObjectByUserNameAndPassword(UserName, Password, ref ID, ref FullName, ref AdminLevel);
+
+        }
 
 
 

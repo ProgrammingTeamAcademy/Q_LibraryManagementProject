@@ -45,6 +45,44 @@ namespace LibraryManagementDataBaseLayer
             return isFound;
         }
 
+        public static bool GetAdminObjectByUserNameAndPassword(string UserName, string Password, ref int ID, ref string FullName, ref int AdminLevel)
+        {
+            bool isFound = false;
+
+            SqlConnection connection = new SqlConnection(clsDataBaseSettings.ConnectionString);
+
+            string query = "select ID, full_name, admin_level from admins where username = @UserName and password = @Password";
+
+            SqlCommand command = new SqlCommand(query, connection);
+            command.Parameters.AddWithValue("@UserName",UserName);
+            command.Parameters.AddWithValue("@Password",Password);
+
+
+            try
+            {
+                connection.Open();
+
+                SqlDataReader reader = command.ExecuteReader();
+
+                if (reader.Read())
+                {
+                    isFound = true;
+
+                    ID = (int)reader["ID"];
+                    FullName = (string)reader["full_name"];
+                    AdminLevel = (int)reader["admin_level"];
+                }
+
+                reader.Close();
+
+            }
+            catch {}
+            finally { connection.Close(); }
+
+            return isFound;
+
+        }
+
         public static DataTable GetAdminsList()
         {
             DataTable AdminsDT = new DataTable();
