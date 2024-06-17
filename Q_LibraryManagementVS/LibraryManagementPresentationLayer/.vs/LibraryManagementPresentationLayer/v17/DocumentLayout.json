@@ -3,18 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\dell12\\Downloads\\My-GitHub\\Q_LibraryManagementProject\\Q_LibraryManagementVS\\LibraryManagementPresentationLayer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B231DC69-12A4-40BD-8A1E-FDED87B6B375}|..\\LibraryManagementDataBaseLayer\\LibraryManagementDataBaseLayer.csproj|c:\\users\\dell12\\downloads\\my-github\\q_librarymanagementproject\\q_librarymanagementvs\\librarymanagementdatabaselayer\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2414F46-E06F-4003-BEA8-4E321987E2F6}|..\\LibraryManagementBackEndLayer\\LibraryManagementBackEndLayer.csproj|c:\\users\\dell12\\downloads\\my-github\\q_librarymanagementproject\\q_librarymanagementvs\\librarymanagementbackendlayer\\backend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F1A6EF5-D454-4538-B7E0-C6189296B8B0}|LibraryManagementPresentationLayer.csproj|c:\\users\\dell12\\downloads\\my-github\\q_librarymanagementproject\\q_librarymanagementvs\\librarymanagementpresentationlayer\\loginscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F1A6EF5-D454-4538-B7E0-C6189296B8B0}|LibraryManagementPresentationLayer.csproj|solutionrelative:loginscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2F1A6EF5-D454-4538-B7E0-C6189296B8B0}|LibraryManagementPresentationLayer.csproj|C:\\Users\\dell12\\Downloads\\My-GitHub\\Q_LibraryManagementProject\\Q_LibraryManagementVS\\LibraryManagementPresentationLayer\\loginscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F1A6EF5-D454-4538-B7E0-C6189296B8B0}|LibraryManagementPresentationLayer.csproj|solutionrelative:loginscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F1A6EF5-D454-4538-B7E0-C6189296B8B0}|LibraryManagementPresentationLayer.csproj|C:\\Users\\dell12\\Downloads\\My-GitHub\\Q_LibraryManagementProject\\Q_LibraryManagementVS\\LibraryManagementPresentationLayer\\loginscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2F1A6EF5-D454-4538-B7E0-C6189296B8B0}|LibraryManagementPresentationLayer.csproj|solutionrelative:loginscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F2414F46-E06F-4003-BEA8-4E321987E2F6}|..\\LibraryManagementBackEndLayer\\LibraryManagementBackEndLayer.csproj|c:\\users\\dell12\\downloads\\my-github\\q_librarymanagementproject\\q_librarymanagementvs\\librarymanagementbackendlayer\\backend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B231DC69-12A4-40BD-8A1E-FDED87B6B375}|..\\LibraryManagementDataBaseLayer\\LibraryManagementDataBaseLayer.csproj|c:\\users\\dell12\\downloads\\my-github\\q_librarymanagementproject\\q_librarymanagementvs\\librarymanagementdatabaselayer\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,8 +24,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataBase.cs",
+              "DocumentMoniker": "C:\\Users\\dell12\\Downloads\\My-GitHub\\Q_LibraryManagementProject\\Q_LibraryManagementVS\\LibraryManagementDataBaseLayer\\DataBase.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagementDataBaseLayer\\DataBase.cs",
+              "ToolTip": "C:\\Users\\dell12\\Downloads\\My-GitHub\\Q_LibraryManagementProject\\Q_LibraryManagementVS\\LibraryManagementDataBaseLayer\\DataBase.cs",
+              "RelativeToolTip": "..\\LibraryManagementDataBaseLayer\\DataBase.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAJIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:14:46.39Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BackEnd.cs",
+              "DocumentMoniker": "C:\\Users\\dell12\\Downloads\\My-GitHub\\Q_LibraryManagementProject\\Q_LibraryManagementVS\\LibraryManagementBackEndLayer\\BackEnd.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagementBackEndLayer\\BackEnd.cs",
+              "ToolTip": "C:\\Users\\dell12\\Downloads\\My-GitHub\\Q_LibraryManagementProject\\Q_LibraryManagementVS\\LibraryManagementBackEndLayer\\BackEnd.cs",
+              "RelativeToolTip": "..\\LibraryManagementBackEndLayer\\BackEnd.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAjwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:14:47.996Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -36,53 +64,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DataBase.cs",
-              "DocumentMoniker": "C:\\Users\\dell12\\Downloads\\My-GitHub\\Q_LibraryManagementProject\\Q_LibraryManagementVS\\LibraryManagementDataBaseLayer\\DataBase.cs",
-              "RelativeDocumentMoniker": "..\\LibraryManagementDataBaseLayer\\DataBase.cs",
-              "ToolTip": "C:\\Users\\dell12\\Downloads\\My-GitHub\\Q_LibraryManagementProject\\Q_LibraryManagementVS\\LibraryManagementDataBaseLayer\\DataBase.cs",
-              "RelativeToolTip": "..\\LibraryManagementDataBaseLayer\\DataBase.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAwwHYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T15:14:46.39Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "BackEnd.cs",
-              "DocumentMoniker": "C:\\Users\\dell12\\Downloads\\My-GitHub\\Q_LibraryManagementProject\\Q_LibraryManagementVS\\LibraryManagementBackEndLayer\\BackEnd.cs",
-              "RelativeDocumentMoniker": "..\\LibraryManagementBackEndLayer\\BackEnd.cs",
-              "ToolTip": "C:\\Users\\dell12\\Downloads\\My-GitHub\\Q_LibraryManagementProject\\Q_LibraryManagementVS\\LibraryManagementBackEndLayer\\BackEnd.cs",
-              "RelativeToolTip": "..\\LibraryManagementBackEndLayer\\BackEnd.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAACwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T15:14:47.996Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "LoginScreen.cs",
               "DocumentMoniker": "C:\\Users\\dell12\\Downloads\\My-GitHub\\Q_LibraryManagementProject\\Q_LibraryManagementVS\\LibraryManagementPresentationLayer\\LoginScreen.cs",
               "RelativeDocumentMoniker": "LoginScreen.cs",
               "ToolTip": "C:\\Users\\dell12\\Downloads\\My-GitHub\\Q_LibraryManagementProject\\Q_LibraryManagementVS\\LibraryManagementPresentationLayer\\LoginScreen.cs",
               "RelativeToolTip": "LoginScreen.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAWwBUAAAAAAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAWwBoAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-09T15:34:52.299Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "LoginScreen.cs [Design]",
               "DocumentMoniker": "C:\\Users\\dell12\\Downloads\\My-GitHub\\Q_LibraryManagementProject\\Q_LibraryManagementVS\\LibraryManagementPresentationLayer\\LoginScreen.cs",
               "RelativeDocumentMoniker": "LoginScreen.cs",
               "ToolTip": "C:\\Users\\dell12\\Downloads\\My-GitHub\\Q_LibraryManagementProject\\Q_LibraryManagementVS\\LibraryManagementPresentationLayer\\LoginScreen.cs [Design]",
               "RelativeToolTip": "LoginScreen.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T18:11:09.628Z",
+              "WhenOpened": "2024-06-17T09:18:16.03Z",
               "EditorCaption": " [Design]"
             }
           ]

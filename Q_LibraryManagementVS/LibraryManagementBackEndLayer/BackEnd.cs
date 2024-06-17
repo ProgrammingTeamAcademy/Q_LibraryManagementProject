@@ -43,12 +43,24 @@ namespace LibraryManagementBackEndLayer
         }
        
 
-        public static bool GetAdminObjectByUserNameAndPassword(string UserName, string Password)
+        public static bool CheckLogin(string UserName,string Password)
+        {
+            return clsAdminDataAccess.CheckLogin(UserName, Password);
+        }
+
+        public static clsAdmin GetAdminObjectByUserNameAndPassword(string UserName, string Password)
         {
             int ID = -1, AdminLevel = 0;
             string FullName = string.Empty;
 
-            return clsAdminDataAccess.GetAdminObjectByUserNameAndPassword(UserName, Password, ref ID, ref FullName, ref AdminLevel);
+            if(clsAdminDataAccess.GetAdminObjectByUserNameAndPassword(UserName,Password,ref ID,ref FullName,ref AdminLevel))
+            {
+                return new clsAdmin(ID, FullName, UserName, Password, AdminLevel);
+            }
+            else
+            {
+                return null;
+            }
 
         }
 

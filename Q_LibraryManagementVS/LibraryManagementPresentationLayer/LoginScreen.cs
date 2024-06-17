@@ -18,54 +18,29 @@ namespace LibraryManagementPresentationLayer
             InitializeComponent();
         }
 
-        private void LoginScreen_Load(object sender, EventArgs e)
+        public static clsAdmin CurrentAdmin = new clsAdmin();
+
+
+
+        void IsTextsEmpty(object sender, EventArgs e)
         {
+            
+            btnLogin.Enabled = (txtUserName.Text == "" || txtPassword.Text == "") ? false : true;
 
         }
 
-        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        private void btnLogin_Click(object sender, EventArgs e)
         {
+            if (!clsAdmin.CheckLogin(txtUserName.Text,txtPassword.Text))
+            {
+                MessageBox.Show("اسم المستخدم او كلمة المرور خاطئة !", "فشل تسجيل الدخول", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
 
-        }
+            
 
-        private void button1_Click(object sender, EventArgs e)
-        {
+            //CurrentAdmin = clsAdmin.GetAdminObjectByUserNameAndPassword(txtUserName.Text, txtPassword.Text);
 
-        }
-
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void comboBox1_SelectedIndexChanged_1(object sender, EventArgs e)
-        {
-
-        }
-
-        private void checkBox1_CheckedChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBox2_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void panel1_Paint(object sender, PaintEventArgs e)
-        {
-          
-
-        }
-
-        private void label2_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label3_Click(object sender, EventArgs e)
-        {
 
         }
     }
